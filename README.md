@@ -1,16 +1,96 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-based Ionospheric Electron Density Variability estimation at IIT Tirupati<br><br>Path planning algorithms for an autonomous AI rovers and drones with Chaitanya ASTRA
-<br><br>Intern at Diebold Nixdorf Systems India<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source projects related to computer vision, NLP, and geospatial AI<br><br>Robotics applications involving autonomous navigation and sensor fusion<br><br>Innovative solutions using large language models or medical imaging<br><br>🤝 I’m looking for help with<br>Optimizing real-time inference in deep learning models for edge devices<br><br>Building scalable backends for AI-powered applications<br><br>Getting started with contributing to open-source ML/AI toolkits (like HuggingFace or LangChain)<br><br>🌱 I’m currently learning<br>LangChain and vector database integration for advanced RAG systems<br><br>Signal processing techniques for UAV detection<br><br>Advanced CNN and Vision Transformer models for medical imaging and geospatial analysis<br><br>>Creating custom RAG systems using LLAMA3<br><br>Automating image annotation and preprocessing pipelines for machine learning<br><br>⚡ Fun fact<br>I once trained 22+ different CNN architectures just to squeeze out the best pneumonia detection accuracy from noisy chest X-ray datasets—and loved every minute of it!
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishnuvardhan2704&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishnuvardhan2704&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan2704&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm an **AI & Data Science student at CBIT Hyderabad** exploring real-world AI systems — especially **LLM architectures, NLP applications, and AI infrastructure.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishnuvardhan2704&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 What I'm currently working on
+
+• **Recursive Language Model (RLM) experimentation** — exploring local inference, model behavior, and reasoning capabilities using quantized models and runtimes like Ollama  
+
+• Building **NLP-driven AI applications** and experimenting with different LLM pipelines  
+
+• **Robotics & autonomous systems** through Chaitanya ASTRA — focusing on navigation and intelligent decision systems  
+
+---
+
+## 💼 Industry Work
+
+**AI Intern — Diebold Nixdorf**
+
+Worked on an **ESG-based sustainable product recommendation system** for retail/POS environments.
+
+The system suggests environmentally friendly alternatives to products in a shopping cart using:
+
+• rule-based sustainability scoring  
+• product similarity matching  
+• AI-assisted reasoning  
+• carbon reward concepts for greener purchasing decisions  
+
+Focus: **practical AI deployment in retail systems**
+
+---
+
+## 🧠 Things I've worked on before
+
+Some past projects and explorations include:
+
+• **Custom RAG pipelines** using vector databases and LLM orchestration  
+• Training and benchmarking **multiple CNN architectures** for medical image classification  
+• Computer vision systems for **parking slot detection and occupancy analysis**  
+• **SAR satellite imagery analysis** for change detection in geospatial datasets  
+• 3D terrain visualization using **SAR + DEM data**
+
+---
+
+## 🌱 Currently learning
+
+• **LLM architectures and reasoning systems**  
+• **Local AI deployment and model quantization**  
+• **Advanced RAG pipelines and retrieval systems**  
+• **AI system design for real-world applications**
+
+---
+
+## ⚡ Fun fact
+
+I like pushing models until they break — whether that's training **20+ CNN architectures on noisy datasets** or trying to get **local LLMs to behave properly without cloud APIs.**
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Databases & Tools
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vishnuvardhan2704&theme=transparent&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=vishnuvardhan2704&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan2704&theme=transparent&hide_border=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=vishnuvardhan2704&icon=0&color=0)](https://visitcount.itsvg.in)
